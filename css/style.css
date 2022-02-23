@@ -147,14 +147,14 @@ body{
 @media only screen and (max-width: 550px) {
     .container{
         width: 80%;
-        min-width: 280px;
-        padding: 15px 5px;
+        min-width: 290px;
+        padding: 15px 0px;
         border: none;
         box-shadow: none;
     }  
     
     #newtask {
-        padding: 20px 5px;
+        padding: 20px 12px;
     }
 
     #newtask button {
